@@ -9,7 +9,7 @@ const server = http.createServer((req, res) => {
 
     res.end(`
 <<<<<<< HEAD
-        <h1>Hello from Node.js team hello team family itcg \\\\ </h1>
+        <h1>Hello from Node.js team hello team  \\\\ </h1>
 =======
 
 
